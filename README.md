@@ -38,10 +38,10 @@ Data Augmentation :
 
 ![image](https://user-images.githubusercontent.com/68370376/135506701-db5b96b2-ed22-4289-b48c-635cb8a9e588.png)
 ![image](https://user-images.githubusercontent.com/68370376/135506769-8f62ea65-b3d1-4450-aefd-c0894a9ac9ac.png)
+![image](https://user-images.githubusercontent.com/68370376/135506824-a50f3414-8f61-43a5-b65d-6be6f0939ba6.png)
 
 Transfer Learning : VGG16Net
 
-![image](https://user-images.githubusercontent.com/68370376/135506824-a50f3414-8f61-43a5-b65d-6be6f0939ba6.png)
 ![image](https://user-images.githubusercontent.com/68370376/135506951-76ce8b76-f6a4-48bf-8524-ebc27e35fa08.png)
 ![image](https://user-images.githubusercontent.com/68370376/135506981-b1fd5735-ad65-4a8c-bfa8-b9ca7aa82256.png)
 
