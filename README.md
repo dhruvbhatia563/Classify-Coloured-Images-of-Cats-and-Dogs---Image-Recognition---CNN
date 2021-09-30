@@ -35,21 +35,26 @@ Simple CNN Structure
 Observation : there is a large difference between training_acc and validation_acc, val_acc oscilating around 73-74%, train_acc oscilating around 92-93% and increasing with each epoch, graph shows there is an Overfitting in the model becuase with each epoch train_Acc is increasing but not able to increase the val_acc. To overcome overfitting --> will be creating dummy data, will modify exsisting data into different forms by applying zoom,shear,rotation etc. Aim know to increase validation accuracy and reduce overfitting.
 
 Data Augmentation :
+
 ![image](https://user-images.githubusercontent.com/68370376/135506701-db5b96b2-ed22-4289-b48c-635cb8a9e588.png)
 ![image](https://user-images.githubusercontent.com/68370376/135506769-8f62ea65-b3d1-4450-aefd-c0894a9ac9ac.png)
-![image](https://user-images.githubusercontent.com/68370376/135506824-a50f3414-8f61-43a5-b65d-6be6f0939ba6.png)
 
 Transfer Learning : VGG16Net
+
+![image](https://user-images.githubusercontent.com/68370376/135506824-a50f3414-8f61-43a5-b65d-6be6f0939ba6.png)
 ![image](https://user-images.githubusercontent.com/68370376/135506951-76ce8b76-f6a4-48bf-8524-ebc27e35fa08.png)
 ![image](https://user-images.githubusercontent.com/68370376/135506981-b1fd5735-ad65-4a8c-bfa8-b9ca7aa82256.png)
 
 After testing on test dataset :
+
 ![image](https://user-images.githubusercontent.com/68370376/135507063-f2df8c18-84d4-4302-9b90-b3940a054839.png)
 
 Transfer Learning : InceptionResNetV2
+
 ![image](https://user-images.githubusercontent.com/68370376/135507292-f1a4febf-f1c2-4ba9-8fe0-9e187d51312d.png)
 
 After testing on test dataset :
+
 ![image](https://user-images.githubusercontent.com/68370376/135507344-f6f0bb84-6e70-4444-807a-d45419025511.png)
 
 
